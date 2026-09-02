@@ -47,6 +47,9 @@ pip-wheel-metadata/
 *.swo
 *~
 
+# Local agent configuration and skills
+.agents/
+
 # Operating-system metadata
 .DS_Store
 Thumbs.db
