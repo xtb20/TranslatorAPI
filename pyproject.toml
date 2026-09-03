@@ -6,4 +6,6 @@ readme = "README.md"
 requires-python = ">=3.14"
 dependencies = [
     "fastapi[standard]>=0.141.1",
+    "manga-ocr>=0.1.16",
+    "rarfile>=4.2",
 ]
