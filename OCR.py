@@ -5,6 +5,5 @@ def get_text(image_path):
     return text
 
 def get_panels():
-
-"""THis function returns snipped panels using the magiV3"""
+    """This function will return snipped panels using MAGIv3."""
 

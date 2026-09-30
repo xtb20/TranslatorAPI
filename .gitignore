@@ -50,6 +50,7 @@ pip-wheel-metadata/
 # Local agent configuration and skills
 .agents/
 uploads/
+*.worker.lock
 
 # Operating-system metadata
 .DS_Store
