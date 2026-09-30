@@ -70,4 +70,3 @@ def _extract_png_members(members, output_path, extracted_files):
         extracted_files.append(destination)
 
 
-x= extract_png_from_archive(r"C:\Users\xtb20\OneDrive\Documents\GitHub\TranslatorAPI\test images\Batman 013 (2026) (digital) (Pyrate-DCP).cbz", r"test images\extracted")

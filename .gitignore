@@ -49,6 +49,7 @@ pip-wheel-metadata/
 
 # Local agent configuration and skills
 .agents/
+uploads/
 
 # Operating-system metadata
 .DS_Store
